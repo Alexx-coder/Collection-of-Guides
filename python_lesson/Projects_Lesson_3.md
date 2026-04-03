@@ -1,6 +1,6 @@
 # Projects for Lesson 3 of Python
 
-Проект для Lesson 3
+**Проект для Lesson 3 of Python**
 
 ## Проект
 
