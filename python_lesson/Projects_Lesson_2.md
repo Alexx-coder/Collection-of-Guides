@@ -1,6 +1,6 @@
 # Projects for Lesson 2 of Python
 
-Проекты для Lesson 2 of Python
+**Проекты для Lesson 2 of Python**
 
 ## Проекты
 
