@@ -6,7 +6,7 @@
 
 - Модули по Python: `sys, os, time, datetime и тд...`
 
-## что будем изучать
+## Что будем изучать
 
 - Модули из нестандартной библиотеки: `requests, cryptography, whoami и тд`
 
